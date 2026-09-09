@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Aisha Ghous 👋
 
-<!--
-**ghousaisha/ghousaisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BCA student specializing in AI & Data Analytics**, interested in **Generative AI, AI Agents, RAG, Data Analytics, and AI Automation**.
 
-Here are some ideas to get you started:
+* 🔭 Currently building AI-powered applications
+* 🌱 Exploring **GenAI, Agentic AI, RAG, and AI automation**
+* 💻 Working with **Python, SQL, Gemini AI, React, and Streamlit**
+* ⚙️ Exploring **n8n, APIs, CI/CD, and cloud deployment**
+* 📊 Interested in turning data and AI into practical solutions
+* 📫 Reach me at **[ghousaisha123@gmail.com](mailto:ghousaisha123@gmail.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+`Python` `SQL` `Gemini AI` `Google ADK` `RAG` `AI Agents` `n8n` `Pandas` `FAISS` `React` `Streamlit` `Firebase` `Git` `GitHub Actions` `Power BI`
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/contactaishaghous) • [GitHub](https://github.com/ghousaisha)
+
